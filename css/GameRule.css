@@ -1,0 +1,90 @@
+h1{
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+  text-align: center;
+  font-size: 18px;
+  margin:40px 40px 40px 40px;
+}
+div#top{
+   display: flex;
+   justify-content: space-around;
+   margin: 0 auto;
+   text-align: center;
+   margin:20px 20px 20px 150px;
+}
+h1#Spr{
+  color: darkorange;
+  margin-left: 140px;
+
+}
+div#Sport{
+    background: url(../images/Sport1.png) no-repeat;
+    width: 275px;
+    height: 374px;
+    margin: 0 auto;
+    margin-left: 140px;
+}
+h1#Movi{
+    color: purple;
+    margin-left: 100px;
+}
+div#Movie{
+    background: url(../images/Movie1.png) no-repeat;
+    width: 277px;
+    height: 400px;
+    margin: 0 auto;
+    margin-left: 140px;
+}
+h1#Sci{
+    color: darkgreen;
+    
+}
+div#Science{
+    background: url(../images/Science.png) no-repeat;
+    width: 460px;
+    height: 400px;
+    margin: 0 auto;
+    margin-left: 140px;
+}
+div#bottom{
+    display: flex;
+   justify-content: space-around;
+   margin: 0 auto;
+   text-align: center;
+   margin:20px 20px 20px 150px;
+}
+h1#Hist{
+  color: yellow;
+}
+div#History{
+    background: url(../images/History.png) no-repeat;
+    width: 257px;
+    height: 400px;
+    margin: 0 auto;
+}
+h1#Geo{
+    color: darkblue;
+  }
+  div#Geography{
+      background: url(../images/Geography.png) no-repeat;
+      width: 547px;
+      height: 400px;
+      margin: 0 auto;
+     margin-left: 60px;
+     margin-right: 60px;
+     margin-top: 60px;
+  }
+h1#AC{
+    color: brown;
+  }
+div#Art{
+      background: url(../images/Art.png) no-repeat;
+      width: 347px;
+      height: 400px;
+      margin: 0 auto;
+      margin-top: 60px;
+  }

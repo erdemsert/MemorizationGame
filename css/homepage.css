@@ -1,0 +1,81 @@
+
+div#poster{
+    background: url(../images/Banner.jpg);
+    background-size: cover;
+    width: 697px;
+    height: 98px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+div#container{
+    display: flex;
+    width: 900px;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#container div#left{
+    width: 500px;
+    margin-right: 20px;
+}
+
+#container div#right{
+    width: 500px;
+    margin-left: 20px;
+
+}
+#left div#GameImg{
+    background: url(../images/Game.jpg) no-repeat;
+    width: 225px;
+    height: 225px;
+    border-radius: 112px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+#right div#founder{
+    background: url(../images/chris_haney.jpg) no-repeat;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin: 0 auto;
+    margin-bottom: 45px;
+}
+#container h1{
+    color: yellow;
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+#container p{
+    color: black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+div#footer form table{
+    width: 400px;
+    margin-bottom: 100px;
+    margin: 0 auto;
+    font-size: 18px;
+    margin-top: 20px;
+}
+td{
+    border: 1px solid black;
+    background-color: orange;
+    font-weight: bold;
+}
+
+td input,select{
+    width: 200px;
+    height: 35px;
+    font-size: 18px;
+}
